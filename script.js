@@ -31,7 +31,7 @@ gsap.to("#nav", {
     // markers:true,
     start: "top -10%",
     end: "top -11%",
-    scrub: 1,
+    scrub: 1
   },
 });
 
